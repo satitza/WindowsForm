@@ -1,0 +1,120 @@
+C:\Users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\Extrem_Internet_Shop.csprojResolveAssemblyReference.cache
+C:\Users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\Extrem_Internet_Shop.csproj.GenerateResource.Cache
+C:\Users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\Extreme_Internet_Shop.exe
+C:\Users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\Extreme_Internet_Shop.pdb
+C:\Users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\bin\Debug\Extreme_Internet_Shop.exe.config
+C:\Users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\bin\Debug\Extreme_Internet_Shop.exe
+C:\Users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\bin\Debug\Extreme_Internet_Shop.pdb
+C:\Users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.AddShop.resources
+C:\Users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.ConnectDatabaseForm.resources
+C:\Users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.FormUser.resources
+C:\Users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.ItemComboboxSetting.resources
+C:\Users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Login.resources
+C:\Users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.MainForm.resources
+C:\Users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Properties.Resources.resources
+C:\Users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.ShopInformation.resources
+C:\Users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.ViewImage.resources
+C:\Users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.SummaryForm.resources
+C:\Users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.AllAppointments.resources
+C:\Users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.DaysToGo.resources
+C:\Users\satit\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\bin\Debug\Extreme_Internet_Shop.exe.config
+C:\Users\satit\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\Extreme_Internet_Shop.exe
+C:\Users\satit\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\Extreme_Internet_Shop.pdb
+C:\Users\satit\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\bin\Debug\Extreme_Internet_Shop.exe
+C:\Users\satit\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\bin\Debug\Extreme_Internet_Shop.pdb
+C:\Users\satit\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\Extrem_Internet_Shop.csprojResolveAssemblyReference.cache
+C:\Users\satit\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.AddShop.resources
+C:\Users\satit\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.AllAppointments.resources
+C:\Users\satit\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.ConnectDatabaseForm.resources
+C:\Users\satit\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.DaysToGo.resources
+C:\Users\satit\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.FormUser.resources
+C:\Users\satit\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.ItemComboboxSetting.resources
+C:\Users\satit\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Login.resources
+C:\Users\satit\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.MainForm.resources
+C:\Users\satit\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Properties.Resources.resources
+C:\Users\satit\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.ShopInformation.resources
+C:\Users\satit\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.SummaryForm.resources
+C:\Users\satit\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.ViewImage.resources
+C:\Users\satit\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\Extrem_Internet_Shop.csproj.GenerateResource.Cache
+C:\Users\satit\Documents\Visual Studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\bin\Debug\ClassDatabase.dll
+C:\Users\satit\Documents\Visual Studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\bin\Debug\ClassDatabase.pdb
+C:\Users\satit\Documents\Visual Studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\RdlCompile.cache
+C:\Users\satit\Documents\Visual Studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\RdlCompile.compiled
+C:\Users\satit\Documents\Visual Studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.FormShopSmall.resources
+C:\Users\satit\Documents\Visual Studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.FormShopMe.resources
+C:\Users\satit\Documents\Visual Studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.FormShopBig.resources
+C:\Users\satit\Documents\Visual Studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.FormShopAll.resources
+C:\Users\satit\Documents\Visual Studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.ReportIPBonus.FormIPBonus.resources
+C:\Users\satit\Documents\Visual Studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.ReportIPBonus.FormIPBonusAll.resources
+C:\Users\satit\Documents\Visual Studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.ReportIPBonus.FormNoIPBonus.resources
+C:\Users\satit\Documents\Visual Studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.ReportGameType.FormGameTypeAll.resources
+C:\Users\satit\Documents\Visual Studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.ReportGameType.FormGameType.resources
+C:\Users\satit\Documents\Visual Studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.ReportAirpay.FormReportAirpayAll.resources
+C:\Users\satit\Documents\Visual Studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.ReportAirpay.FormReportAirpay.resources
+C:\Users\satit\Documents\Visual Studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.ReportCafeThai.FormReportCafeThaiAll.resources
+C:\Users\satit\Documents\Visual Studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.ReportCafeThai.FormReportCafeThai.resources
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\bin\Debug\Extreme_Internet_Shop.exe.config
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\Extreme_Internet_Shop.exe
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\Extreme_Internet_Shop.pdb
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\bin\Debug\Extreme_Internet_Shop.exe
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\bin\Debug\Extreme_Internet_Shop.pdb
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\bin\Debug\ClassDatabase.dll
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\bin\Debug\ClassDatabase.pdb
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\Extrem_Internet_Shop.csprojResolveAssemblyReference.cache
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.ReportAirpay.FormReportAirpay.resources
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.ReportAirpay.FormReportAirpayAll.resources
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.ReportCafeThai.FormReportCafeThai.resources
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.ReportCafeThai.FormReportCafeThaiAll.resources
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.ReportGameType.FormGameType.resources
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.ReportGameType.FormGameTypeAll.resources
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.ReportIPBonus.FormIPBonus.resources
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.ReportIPBonus.FormIPBonusAll.resources
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.ReportIPBonus.FormNoIPBonus.resources
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.FormShopAll.resources
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.FormShopBig.resources
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.FormShopMe.resources
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.FormShopSmall.resources
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.AddShop.resources
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.AllAppointments.resources
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.ConnectDatabaseForm.resources
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.DaysToGo.resources
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.FormUser.resources
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.ItemComboboxSetting.resources
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Login.resources
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.MainForm.resources
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Properties.Resources.resources
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.ShopInformation.resources
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.SummaryForm.resources
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.ViewImage.resources
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\Extrem_Internet_Shop.csproj.GenerateResource.Cache
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\RdlCompile.cache
+C:\Users\anonymous\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\RdlCompile.compiled
+C:\Users\Administrator\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\Extrem_Internet_Shop.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.ReportAirpay.FormReportAirpay.resources
+C:\Users\Administrator\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.ReportAirpay.FormReportAirpayAll.resources
+C:\Users\Administrator\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.ReportCafeThai.FormReportCafeThai.resources
+C:\Users\Administrator\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.ReportCafeThai.FormReportCafeThaiAll.resources
+C:\Users\Administrator\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.ReportGameType.FormGameType.resources
+C:\Users\Administrator\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.ReportGameType.FormGameTypeAll.resources
+C:\Users\Administrator\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.ReportIPBonus.FormIPBonus.resources
+C:\Users\Administrator\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.ReportIPBonus.FormIPBonusAll.resources
+C:\Users\Administrator\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.ReportIPBonus.FormNoIPBonus.resources
+C:\Users\Administrator\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.FormShopAll.resources
+C:\Users\Administrator\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.FormShopBig.resources
+C:\Users\Administrator\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.FormShopMe.resources
+C:\Users\Administrator\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Form_Report.FormShopSmall.resources
+C:\Users\Administrator\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.AddShop.resources
+C:\Users\Administrator\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.AllAppointments.resources
+C:\Users\Administrator\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.ConnectDatabaseForm.resources
+C:\Users\Administrator\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.DaysToGo.resources
+C:\Users\Administrator\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.FormUser.resources
+C:\Users\Administrator\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.ItemComboboxSetting.resources
+C:\Users\Administrator\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Login.resources
+C:\Users\Administrator\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.MainForm.resources
+C:\Users\Administrator\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.Properties.Resources.resources
+C:\Users\Administrator\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.ShopInformation.resources
+C:\Users\Administrator\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.SummaryForm.resources
+C:\Users\Administrator\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\ExtremeInternetShop.ViewImage.resources
+C:\Users\Administrator\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\Extrem_Internet_Shop.csproj.GenerateResource.Cache
+C:\Users\Administrator\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\Extreme_Internet_Shop.exe
+C:\Users\Administrator\Dropbox\Backup Project\Project\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\Extreme_Internet_Shop.pdb

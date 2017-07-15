@@ -1,0 +1,15 @@
+c:\users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\bin\Debug\Extreme_Internet_Shop.exe.config
+c:\users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\bin\Debug\Extreme_Internet_Shop.exe
+c:\users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\bin\Debug\Extreme_Internet_Shop.pdb
+c:\users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\Extreme_Internet_Shop.csprojResolveAssemblyReference.cache
+c:\users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\Extreme_Internet_Shop.Properties.Resources.resources
+c:\users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\Extreme_Internet_Shop.csproj.GenerateResource.Cache
+c:\users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\Extreme_Internet_Shop.exe
+c:\users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\Extreme_Internet_Shop.pdb
+C:\Users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\Extreme_Internet_Shop.Login.resources
+C:\Users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\Extreme_Internet_Shop.ShopInformation.resources
+C:\Users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\Extreme_Internet_Shop.AddShop.resources
+C:\Users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\Extreme_Internet_Shop.ConnectDatabaseForm.resources
+C:\Users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\Extreme_Internet_Shop.FormUser.resources
+C:\Users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\Extreme_Internet_Shop.MainForm.resources
+C:\Users\satit\documents\visual studio 2013\Projects\Extreme_Internet_Shop\Extreme_Internet_Shop\obj\Debug\Extreme_Internet_Shop.test.resources

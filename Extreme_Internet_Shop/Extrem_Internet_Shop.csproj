@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9C2D26EC-F603-49F5-B8BA-C56EBC4F6CE4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ExtremeInternetShop</RootNamespace>
+    <AssemblyName>Extreme_Internet_Shop</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ClassDatabase">
+      <HintPath>..\ClassDatabase\bin\Debug\ClassDatabase.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataSetExtreme.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetExtreme.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form Report\ReportAirpay\FormReportAirpay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Report\ReportAirpay\FormReportAirpay.Designer.cs">
+      <DependentUpon>FormReportAirpay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Report\ReportAirpay\FormReportAirpayAll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Report\ReportAirpay\FormReportAirpayAll.Designer.cs">
+      <DependentUpon>FormReportAirpayAll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Report\ReportCafeThai\FormReportCafeThai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Report\ReportCafeThai\FormReportCafeThai.Designer.cs">
+      <DependentUpon>FormReportCafeThai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Report\ReportCafeThai\FormReportCafeThaiAll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Report\ReportCafeThai\FormReportCafeThaiAll.Designer.cs">
+      <DependentUpon>FormReportCafeThaiAll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Report\ReportGameType\FormGameType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Report\ReportGameType\FormGameType.Designer.cs">
+      <DependentUpon>FormGameType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Report\ReportGameType\FormGameTypeAll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Report\ReportGameType\FormGameTypeAll.Designer.cs">
+      <DependentUpon>FormGameTypeAll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Report\ReportIPBonus\FormIPBonus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Report\ReportIPBonus\FormIPBonus.Designer.cs">
+      <DependentUpon>FormIPBonus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Report\ReportIPBonus\FormIPBonusAll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Report\ReportIPBonus\FormIPBonusAll.Designer.cs">
+      <DependentUpon>FormIPBonusAll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Report\ReportIPBonus\FormNoIPBonus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Report\ReportIPBonus\FormNoIPBonus.Designer.cs">
+      <DependentUpon>FormNoIPBonus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Report\ReportSizeShop\FormShopAll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Report\ReportSizeShop\FormShopAll.Designer.cs">
+      <DependentUpon>FormShopAll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Report\ReportSizeShop\FormShopBig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Report\ReportSizeShop\FormShopBig.Designer.cs">
+      <DependentUpon>FormShopBig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Report\ReportSizeShop\FormShopMe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Report\ReportSizeShop\FormShopMe.Designer.cs">
+      <DependentUpon>FormShopMe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Report\ReportSizeShop\FormShopSmall.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Report\ReportSizeShop\FormShopSmall.Designer.cs">
+      <DependentUpon>FormShopSmall.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WindowsForm\AddShop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WindowsForm\AddShop.Designer.cs">
+      <DependentUpon>AddShop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WindowsForm\AllAppointments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WindowsForm\AllAppointments.Designer.cs">
+      <DependentUpon>AllAppointments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WindowsForm\ConnectDatabaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WindowsForm\ConnectDatabaseForm.Designer.cs">
+      <DependentUpon>ConnectDatabaseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WindowsForm\DaysToGo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WindowsForm\DaysToGo.Designer.cs">
+      <DependentUpon>DaysToGo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WindowsForm\FormUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WindowsForm\FormUser.Designer.cs">
+      <DependentUpon>FormUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WindowsForm\ItemComboboxSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WindowsForm\ItemComboboxSetting.Designer.cs">
+      <DependentUpon>ItemComboboxSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WindowsForm\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WindowsForm\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WindowsForm\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WindowsForm\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WindowsForm\ShopInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WindowsForm\ShopInformation.Designer.cs">
+      <DependentUpon>ShopInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WindowsForm\SummaryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WindowsForm\SummaryForm.Designer.cs">
+      <DependentUpon>SummaryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WindowsForm\ViewImage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WindowsForm\ViewImage.Designer.cs">
+      <DependentUpon>ViewImage.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form Report\ReportAirpay\FormReportAirpay.resx">
+      <DependentUpon>FormReportAirpay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Report\ReportAirpay\FormReportAirpayAll.resx">
+      <DependentUpon>FormReportAirpayAll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Report\ReportCafeThai\FormReportCafeThai.resx">
+      <DependentUpon>FormReportCafeThai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Report\ReportCafeThai\FormReportCafeThaiAll.resx">
+      <DependentUpon>FormReportCafeThaiAll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\ReportCafeThai\ReportCafeThai.rdlc" />
+    <EmbeddedResource Include="Report\ReportAirpay\ReportAirpay.rdlc" />
+    <EmbeddedResource Include="Form Report\ReportGameType\FormGameType.resx">
+      <DependentUpon>FormGameType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Report\ReportGameType\FormGameTypeAll.resx">
+      <DependentUpon>FormGameTypeAll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\ReportAirpay\ReportAirpayAll.rdlc" />
+    <EmbeddedResource Include="Report\ReportCafeThai\ReportCafeThaiAll.rdlc" />
+    <EmbeddedResource Include="Report\ReportGameType\ReportGameType.rdlc" />
+    <EmbeddedResource Include="Form Report\ReportIPBonus\FormIPBonus.resx">
+      <DependentUpon>FormIPBonus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Report\ReportIPBonus\FormIPBonusAll.resx">
+      <DependentUpon>FormIPBonusAll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Report\ReportIPBonus\FormNoIPBonus.resx">
+      <DependentUpon>FormNoIPBonus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Report\ReportSizeShop\FormShopAll.resx">
+      <DependentUpon>FormShopAll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Report\ReportSizeShop\FormShopBig.resx">
+      <DependentUpon>FormShopBig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Report\ReportSizeShop\FormShopMe.resx">
+      <DependentUpon>FormShopMe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Report\ReportSizeShop\FormShopSmall.resx">
+      <DependentUpon>FormShopSmall.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\ReportGameType\ReportGameTypeAll.rdlc" />
+    <EmbeddedResource Include="Report\ReportIPBonus\ReportIPBonus.rdlc" />
+    <EmbeddedResource Include="Report\ReportIPBonus\ReportIPBonusAll.rdlc" />
+    <EmbeddedResource Include="Report\ReportIPBonus\ReportNoIPBonus.rdlc" />
+    <EmbeddedResource Include="Report\ReportSizeShop\ReportShopAll.rdlc" />
+    <EmbeddedResource Include="Report\ReportSizeShop\ReportShopBig.rdlc" />
+    <EmbeddedResource Include="Report\ReportSizeShop\ReportShopMe.rdlc" />
+    <EmbeddedResource Include="Report\ReportSizeShop\ReportShopSmall.rdlc" />
+    <EmbeddedResource Include="WindowsForm\AddShop.resx">
+      <DependentUpon>AddShop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WindowsForm\AllAppointments.resx">
+      <DependentUpon>AllAppointments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WindowsForm\ConnectDatabaseForm.resx">
+      <DependentUpon>ConnectDatabaseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WindowsForm\DaysToGo.resx">
+      <DependentUpon>DaysToGo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WindowsForm\FormUser.resx">
+      <DependentUpon>FormUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WindowsForm\ItemComboboxSetting.resx">
+      <DependentUpon>ItemComboboxSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WindowsForm\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WindowsForm\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="WindowsForm\ShopInformation.resx">
+      <DependentUpon>ShopInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WindowsForm\SummaryForm.resx">
+      <DependentUpon>SummaryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WindowsForm\ViewImage.resx">
+      <DependentUpon>ViewImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSetExtreme.xsc">
+      <DependentUpon>DataSetExtreme.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetExtreme.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetExtreme.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetExtreme.xss">
+      <DependentUpon>DataSetExtreme.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Image\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
