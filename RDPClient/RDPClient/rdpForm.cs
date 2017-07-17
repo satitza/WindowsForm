@@ -28,7 +28,9 @@ namespace RDPClient
             return screenshot;
         }
 
+        private void SendDesktopImage()
         {
+            BinaryFormatter binFormatter = new BinaryFormatter();
             mainStream = client.GetStream();
             binFormatter.Serialize(mainStream, GrabDesktop());
         }
