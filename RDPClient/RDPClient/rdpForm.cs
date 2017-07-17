@@ -40,5 +40,18 @@ namespace RDPClient
             InitializeComponent();
         }
 
+        private void btnConnect_Click(object sender, EventArgs e)
+        {
+            PortNumber = int.Parse(txtPort.Text);
+            try
+            {
+                client.Connect(txtAddress.Text, PortNumber);
+                MessageBox.Show("Connected");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
     }
 }
