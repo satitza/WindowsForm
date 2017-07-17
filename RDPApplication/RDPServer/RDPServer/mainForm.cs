@@ -16,5 +16,22 @@ namespace RDPServer
         {
             InitializeComponent();
         }
+
+        private void btnListening_Click(object sender, EventArgs e)
+        {                   
+            try
+            {
+                int Port = int.Parse(txtPort.Text);
+                new subForm(Port).Show();
+            }
+            catch (ArgumentException ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
     }
 }

@@ -57,6 +57,7 @@
             this.btnListening.TabIndex = 2;
             this.btnListening.Text = "Listening";
             this.btnListening.UseVisualStyleBackColor = true;
+            this.btnListening.Click += new System.EventHandler(this.btnListening_Click);
             // 
             // mainForm
             // 
