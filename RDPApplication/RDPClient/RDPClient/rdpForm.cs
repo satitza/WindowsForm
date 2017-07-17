@@ -76,7 +76,7 @@ namespace RDPClient
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message);
+                MessageBox.Show("error ตรงนี้ป่าววะ -*-");
             }
         }
     }
