@@ -28,12 +28,14 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.txtAddress = new System.Windows.Forms.TextBox();
             this.txtPort = new System.Windows.Forms.TextBox();
             this.btnConnect = new System.Windows.Forms.Button();
             this.btnScreen = new System.Windows.Forms.Button();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
             // label1
@@ -86,6 +88,11 @@
             this.btnScreen.TabIndex = 5;
             this.btnScreen.Text = "Screen";
             this.btnScreen.UseVisualStyleBackColor = true;
+            this.btnScreen.Click += new System.EventHandler(this.btnScreen_Click);
+            // 
+            // timer1
+            // 
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // rdpForm
             // 
@@ -113,6 +120,7 @@
         private System.Windows.Forms.TextBox txtPort;
         private System.Windows.Forms.Button btnConnect;
         private System.Windows.Forms.Button btnScreen;
+        private System.Windows.Forms.Timer timer1;
     }
 }
 

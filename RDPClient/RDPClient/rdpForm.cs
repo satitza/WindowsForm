@@ -53,5 +53,31 @@ namespace RDPClient
                 MessageBox.Show(ex.Message);
             }
         }
+
+        private void btnScreen_Click(object sender, EventArgs e)
+        {
+            if (btnScreen.Text.StartsWith("Screen"))
+            {
+                timer1.Start();
+                btnScreen.Text = "Stop Screen";
+            }
+            else
+            {
+                timer1.Stop();
+                btnScreen.Text = "Screen";
+            }
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            try
+            {
+                SendDesktopImage();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
     }
 }
