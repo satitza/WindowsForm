@@ -9,6 +9,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Threading;
 using System.Windows.Forms;
+using System.Runtime.Serialization.Formatters.Binary;
+using System.Net;
 
 namespace RDPServer
 {
@@ -42,6 +44,51 @@ namespace RDPServer
             }
             
         }
+
+        protected override void OnLoad(EventArgs e)
+        {
+            base.OnLoad(e);
+            try
+            {
+                server = new TcpListener(IPAddress.Any, port);
+                Listening.Start();
+            }
+            catch (SocketException ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+
+        protected override void OnClosed(EventArgs e)
+        {
+            base.OnClosed(e);
+            try
+            {
+                StopListening();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+
+        private void ReceiveImage()
+        {
+            try
+            {
+                BinaryFormatter binFormatter = new BinaryFormatter();
+                while (client.Connected)
+                {
+                    mainStream = client.GetStream();
+                    pictureBox1.Image = (Image)binFormatter.Deserialize(mainStream);
+                }
+            }
+            catch (Exception ex)
+            {
+
+            }
+        }
+
 
         private void StratListening()
         {
